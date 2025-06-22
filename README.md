@@ -4,6 +4,10 @@
 
 ---
 
+If You check my website = use this link "https://frontend-expense-tracker-tw0u.onrender.com/"
+
+and if it won't login then open my backend link "https://backend-expense-tracker-re0m.onrender.com/" for while because its hosted in render , render sometimes deactivate the any hosted files , so activate entering the link use it .
+
 ## 📌 Features
 
 - 🔐 User Authentication (Register/Login/Logout)
@@ -45,11 +49,7 @@ Make sure you have the following installed:
 - MongoDB (local or Atlas)
 
 ### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/dhanbad-expense-tracker.git
-cd dhanbad-expense-tracker
+#Download the zip file , extract it 
 
 # Install dependencies
 npm install
