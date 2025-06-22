@@ -1,4 +1,4 @@
-# 🧾 Dhanbad – Expense Tracking Website
+# 🧾 DhanPath – Expense Tracking Website
 
 **Dhanbad** is a web-based expense tracker designed to help users monitor, categorize, and visualize their spending patterns with ease. Whether you're budgeting daily or reviewing past transactions, Dhanbad offers a clean and responsive interface for efficient financial tracking.
 
